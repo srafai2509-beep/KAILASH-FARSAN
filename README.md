@@ -1,25 +1,24 @@
-# 👗 Rangriti Fashion Boutique
+# 🥟 Kailesh Farsan
 
-A modern and elegant fashion boutique website showcasing designer collections, ethnic wear, bridal fashion, custom tailoring, and premium boutique services.
+Authentic Gujarati snacks and farsan made with traditional recipes, fresh ingredients, and a commitment to quality. Kailesh Farsan offers a wide variety of delicious namkeen, farsan, sweets, and special festival treats.
 
 ---
 
 ## ✨ Features
 
-- Modern Luxury Design
-- Fully Responsive Layout
-- Fashion Collection Showcase
-- About Us Section
-- Contact & Inquiry Form
-- Mobile Friendly Experience
-- Fast Loading Performance
-- SEO Friendly Structure
+- Traditional Gujarati Farsan
+- Fresh Daily Preparation
+- Quality Ingredients
+- Hygienic Food Processing
+- Online Enquiry Support
+- Mobile-Friendly Website
+- Modern & Responsive Design
 
 ---
 
-## 🚀 Local Development
+## 🚀 Getting Started
 
-### Clone Repository
+### Clone the Repository
 
 ```bash
 git clone <repository-url>
@@ -46,7 +45,9 @@ http://localhost:5173
 
 ---
 
-## 📦 Build for Production
+## 📦 Production Build
+
+Build the application:
 
 ```bash
 npm run build
@@ -60,34 +61,35 @@ npm run preview
 
 ---
 
-## 🐙 GitHub Repository
+## 🌐 Live Demo
 
-Push your project to GitHub:
+```txt
+https://kailesh-farsan.vercel.app
+```
+
+---
+
+## 🐙 GitHub Setup
+
+Push the project to GitHub:
 
 ```bash
 git init
 git add .
 git commit -m "Initial Commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/rangriti-fashion.git
+git remote add origin https://github.com/yourusername/kailesh-farsan.git
 git push -u origin main
-```
-
-Repository:
-
-```txt
-https://github.com/yourusername/rangriti-fashion
 ```
 
 ---
 
-## 🌐 Deploy on Vercel
+## 🚀 Deploy on Vercel
 
-1. Visit https://vercel.com
-2. Login with GitHub
-3. Click **Add New Project**
-4. Import your GitHub Repository
-5. Click **Deploy**
+1. Login to https://vercel.com
+2. Connect your GitHub account
+3. Import the repository
+4. Click **Deploy**
 
 Vercel automatically detects:
 
@@ -97,13 +99,7 @@ Build Command    : npm run build
 Output Directory : dist
 ```
 
-After deployment you will get:
-
-```txt
-https://rangriti-fashion.vercel.app
-```
-
-This link can be shared directly with clients.
+Your website will be deployed instantly and will receive a shareable URL.
 
 ---
 
@@ -123,19 +119,24 @@ public/
 
 ---
 
-## 👗 Services
+## 🥟 Our Specialities
 
-- Designer Wear
-- Ethnic Collections
-- Bridal Collections
-- Custom Tailoring
-- Blouse Designing
-- Festival Collections
-- Fashion Consultation
+- Gathiya
+- Bhavnagari Gathiya
+- Fafda
+- Sev
+- Khaman
+- Dhokla
+- Samosa
+- Kachori
+- Chakri
+- Mixture
+- Sweet Farsan
+- Festival Specials
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Tech Stack
 
 - React
 - Vite
@@ -148,22 +149,34 @@ public/
 
 ## 📞 Contact
 
-### Rangriti Fashion Boutique
+### Kailesh Farsan
 
 📍 Gujarat, India
 
 📞 +91 XXXXXXXXXX
 
-📧 your-email@example.com
+📧 contact@kaileshfarsan.com
 
-🌐 https://rangriti-fashion.vercel.app
+🌐 https://kailesh-farsan.vercel.app
+
+---
+
+## ⭐ Why Choose Us?
+
+- Authentic Taste
+- Fresh Ingredients
+- Trusted Local Brand
+- Affordable Pricing
+- Customer Satisfaction
+- Quality Assurance
 
 ---
 
 ## 📄 License
 
-© Rangriti Fashion Boutique. All Rights Reserved.
+© Kailesh Farsan. All Rights Reserved.
 
 ---
 
-### ❤️ Developed for Rangriti Fashion Boutique
+### ❤️ Crafted for Kailesh Farsan
+### Bringing Traditional Gujarati Flavours to Every Home
