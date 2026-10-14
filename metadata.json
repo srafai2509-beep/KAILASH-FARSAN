@@ -1,0 +1,6 @@
+{
+  "name": "New Kailash Farshan & Sweet Mart",
+  "description": "Rajkot's premier destination for authentic Gujarati farsan, sweets, vanela gathiya, jalebi, and royal festival hampers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
