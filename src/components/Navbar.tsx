@@ -31,7 +31,7 @@ export function Navbar({ cartItemCount, onOpenCart }: NavbarProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between gap-8">
           {/* Zone 1: Brand Wordmark (Single text element wordmark) */}
           <a
-            href="#"
+            href="#top"
             className="text-xl sm:text-2xl font-bold tracking-tight text-white whitespace-nowrap shrink-0 font-royal hover:text-[#d4af37] transition-colors"
           >
             <span className="text-[#d4af37]">New Kailash</span>{' '}

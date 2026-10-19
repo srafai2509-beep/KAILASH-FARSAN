@@ -93,7 +93,7 @@ export default function App() {
   const totalCartCount = cart.reduce((acc, it) => acc + it.quantity, 0);
 
   return (
-    <div className="min-h-screen bg-[#faf7f2] text-stone-900 flex flex-col font-sans selection:bg-[#d4af37]/30 selection:text-[#3a080e]">
+    <div id="top" className="min-h-screen bg-[#faf7f2] text-stone-900 flex flex-col font-sans selection:bg-[#d4af37]/30 selection:text-[#3a080e]">
       
       {/* Sticky 3-Zone Navbar */}
       <Navbar
