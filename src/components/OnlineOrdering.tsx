@@ -116,12 +116,12 @@ export function OnlineOrdering({ onOpenCart }: OnlineOrderingProps) {
             </div>
 
             <a
-              href="https://www.swiggy.com"
+              href={`https://www.swiggy.com/search?query=${encodeURIComponent("New Kailash Farshan Rajkot")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-3 bg-[#FC8019] hover:bg-[#e06f12] text-white font-bold text-xs uppercase tracking-wider rounded-lg shadow transition-all flex items-center justify-center gap-2"
             >
-              <span>Find Us on Swiggy</span>
+              <span>Search New Kailash on Swiggy</span>
             </a>
           </div>
 
@@ -157,12 +157,12 @@ export function OnlineOrdering({ onOpenCart }: OnlineOrderingProps) {
             </div>
 
             <a
-              href="https://www.zomato.com"
+              href={`https://www.zomato.com/rajkot/search?query=${encodeURIComponent("New Kailash Farshan")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-3 bg-[#E23744] hover:bg-[#cb2e3a] text-white font-bold text-xs uppercase tracking-wider rounded-lg shadow transition-all flex items-center justify-center gap-2"
             >
-              <span>Find Us on Zomato</span>
+              <span>Search New Kailash on Zomato</span>
             </a>
           </div>
 
